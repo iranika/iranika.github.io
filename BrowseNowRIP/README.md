@@ -9,7 +9,7 @@
 ## How to use
 
 1. 下記リンクをブラウザのブックマークバーにドラッグ・アンド・ドロップして、ブックマーク登録します。  
-<a href="javascript: (function (e) { window.open('https://twitter.com/intent/tweet?' + 'hashtags=BrowseNowRIP&text=' + e(document.title) + '(' + e(location.href) + ')', null, 'width=520,height=500'); })(encodeURIComponent);">BrowseNowRIP</a>  
+<a href="javascript: (function (e) { window.open(`https://twitter.com/intent/tweet?hashtags=${'BrowseNowRIP'}&text=${e(document.title)}(${e(location.href)})`, null, 'width=520,height=500'); })(encodeURIComponent);">BrowseNowRIP</a>  
 
 1. 共有したいページでブックマークをクリックすると、Twitterの投稿フォームに遷移してつぶやくことができます。  
 ブラウザでTwitterにログインしていない場合は、遷移先の右上からログインしてください。  
@@ -17,7 +17,7 @@
 NOTE: ドラッグ・アンド・ドロップでブックマーク登録できないブラウザの場合以下をブックマークバーに登録してください。
 
 ``` js
-javascript: (function (e) { window.open('https://twitter.com/intent/tweet?' + 'hashtags=BrowseNowRIP&text=' + e(document.title) + '(' + e(location.href) + ')', null, 'width=520,height=500'); })(encodeURIComponent);
+javascript: (function (e) { window.open(`https://twitter.com/intent/tweet?hashtags=${'BrowseNowRIP'}&text=${e(document.title)}(${e(location.href)})`, null, 'width=520,height=500'); })(encodeURIComponent);
 ```
 
 ## FAQ

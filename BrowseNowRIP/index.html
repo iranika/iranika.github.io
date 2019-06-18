@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>README.md</title>
+<title>BrowseNowRIP</title>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 
 <style>
@@ -394,7 +394,7 @@ blockquote {
 <ol>
 <li>
 <p>下記リンクをブラウザのブックマークバーにドラッグ・アンド・ドロップして、ブックマーク登録します。<br>
-<a href="javascript: (function (e) { window.open('https://twitter.com/intent/tweet?' + 'hashtags=BrowseNowRIP&text=' + e(document.title) + '(' + e(location.href) + ')', null, 'width=520,height=500'); })(encodeURIComponent);">BrowseNowRIP</a></p>
+<a href="javascript: (function (e) { window.open(`https://twitter.com/intent/tweet?hashtags=${'BrowseNowRIP'}&text=${e(document.title)}(${e(location.href)})`, null, 'width=520,height=500'); })(encodeURIComponent);">BrowseNowRIP</a></p>
 </li>
 <li>
 <p>共有したいページでブックマークをクリックすると、Twitterの投稿フォームに遷移してつぶやくことができます。<br>
@@ -402,7 +402,7 @@ blockquote {
 </li>
 </ol>
 <p>NOTE: ドラッグ・アンド・ドロップでブックマーク登録できないブラウザの場合以下をブックマークバーに登録してください。</p>
-<pre class="hljs"><code><div>javascript: (<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params">e</span>) </span>{ <span class="hljs-built_in">window</span>.open(<span class="hljs-string">'https://twitter.com/intent/tweet?'</span> + <span class="hljs-string">'hashtags=BrowseNowRIP&amp;text='</span> + e(<span class="hljs-built_in">document</span>.title) + <span class="hljs-string">'('</span> + e(location.href) + <span class="hljs-string">')'</span>, <span class="hljs-literal">null</span>, <span class="hljs-string">'width=520,height=500'</span>); })(<span class="hljs-built_in">encodeURIComponent</span>);
+<pre class="hljs"><code><div>javascript: (<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params">e</span>) </span>{ <span class="hljs-built_in">window</span>.open(<span class="hljs-string">`https://twitter.com/intent/tweet?hashtags=<span class="hljs-subst">${<span class="hljs-string">'BrowseNowRIP'</span>}</span>&amp;text=<span class="hljs-subst">${e(<span class="hljs-built_in">document</span>.title)}</span>(<span class="hljs-subst">${e(location.href)}</span>)`</span>, <span class="hljs-literal">null</span>, <span class="hljs-string">'width=520,height=500'</span>); })(<span class="hljs-built_in">encodeURIComponent</span>);
 </div></code></pre>
 <h2 id="faq">FAQ</h2>
 <ul>
