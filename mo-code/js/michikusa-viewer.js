@@ -43,7 +43,7 @@ const viewer = (()=>{
       })
     },
     createMenuItem : (index, item)=>{
-      return `<a href="#" class="w3-bar-item w3-button" onclick="viewer.initShowImage(${index})">${index +1}. ${item.Title}</a>`
+      return `<a href="#${index +1}" class="w3-bar-item w3-button" onclick="viewer.initShowImage(${index})">${index +1}. ${item.Title}</a>`
     },
     showMore : ()=>{
       if (viewer.page.length >= viewer.page.current){
