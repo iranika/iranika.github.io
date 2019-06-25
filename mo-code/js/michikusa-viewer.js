@@ -87,7 +87,8 @@ const viewer = (()=>{
 })();
 
 window.onload = ()=>{
-  hash = location.hash.replace("#", "")
+  hash = location.hash.replace("#", "").replace("latest", pageData.length)
+
   if (isNaN(hash) || hash == ""){
     document.getElementById("modal").style.display = "block"　//モーダルの表示
     viewer.initShowImage(viewer.page.current)
