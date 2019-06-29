@@ -1,0 +1,99 @@
+body {
+font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue";
+}
+.dummy {
+width: 70vw;
+margin: 20px auto;
+}
+label.link {
+cursor: pointer;
+color: #04c;
+text-decoration: underline;
+}
+
+.modal {
+  .modal-check {
+      display: none;
+  }
+  .modal-body {
+      position: fixed;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(#000,.2);
+      z-index: 100000
+  }
+  .modal-window {
+      position: relative;
+      z-index: 100001;
+      animation: fadein .3s 1, zoomin .3s 1;
+  }
+  .modal-label {
+      position: absolute;
+      top: -20px;
+      right: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 1;
+      background: #099;
+      border-radius: 50%;
+      width:40px;
+      height: 40px;
+      cursor: pointer;
+      transition: all .2s ease;
+      &:hover {
+      background: lighten(#099,10);
+      }
+      &:active {
+      background: lighten(#099,20);
+      }
+      svg {
+      display: flex;
+      align-items: center;
+      fill: #fff;
+      }
+  }
+  .modal-inner {
+      width: 80vw;
+      max-width: 500px;
+      background: #fff;
+      border-radius: 3px;
+      box-shadow: 0px 2px 10px rgba(#000,.2);
+  }
+  .modal-content {
+      padding: 20px;
+  }
+  .modal-check:checked + .modal-body {
+      animation: fadeout .2s 1 forwards, hide .1s .2s 1 forwards;
+      .modal-window {
+      animation: zoomout .2s 1 forwards;   
+      }
+  }
+}
+
+//animation
+@keyframes fadein {
+0% {opacity: 0;}
+100% {opacity: 1;}
+}
+@keyframes fadeout {
+0% {opacity: 1;}
+100% {opacity: 0;}
+}
+@keyframes zoomin {
+0% {transform:scale(.9);}
+100% {transform:scale(1);}
+}
+@keyframes zoomout {
+0% {transform:scale(1);}
+100% {transform:scale(.9);}
+}
+@keyframes hide {
+0% {visibility: visible;}
+100% {visibility: hidden;}
+}
