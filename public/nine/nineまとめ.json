@@ -1,0 +1,571 @@
+﻿{
+    "ieditDoc": {
+        "links": [
+            {
+                "caption": "No",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "from": 7,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "style": "uni-directional",
+                "to": 4,
+                "viaPoint": {
+                    "x": 258,
+                    "y": 42
+                }
+            },
+            {
+                "caption": "",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "from": 4,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "style": "uni-directional",
+                "to": 5
+            },
+            {
+                "caption": "",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "from": 5,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "style": "uni-directional",
+                "to": 6
+            },
+            {
+                "caption": "Yes",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "from": 7,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "style": "uni-directional",
+                "to": 8
+            },
+            {
+                "caption": "",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "from": 8,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "style": "uni-directional",
+                "to": 10
+            },
+            {
+                "caption": "",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "from": 10,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "style": "uni-directional",
+                "to": 11
+            },
+            {
+                "caption": "",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "from": 11,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "style": "uni-directional",
+                "to": 13
+            },
+            {
+                "caption": "",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "from": 6,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "style": "uni-directional",
+                "to": 12
+            },
+            {
+                "caption": "",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "from": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "style": "uni-directional",
+                "to": 7
+            }
+        ],
+        "nodes": [
+            {
+                "bound": {
+                    "bottom": 71,
+                    "left": 77,
+                    "right": 163,
+                    "top": 40
+                },
+                "fill": false,
+                "fillColor": "#FFFFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 0,
+                "label": "nineまとめ",
+                "labelAlign": "single-middle-center",
+                "level": 0,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 0,
+                "shape": "rectangle",
+                "text": ""
+            },
+            {
+                "bound": {
+                    "bottom": 144,
+                    "left": 87,
+                    "right": 133,
+                    "top": 113
+                },
+                "fill": false,
+                "fillColor": "#FFFFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 16,
+                "label": "感想",
+                "labelAlign": "single-middle-center",
+                "level": 1,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 0,
+                "shape": "rectangle",
+                "text": "私は「そらいろ」から始めました。"
+            },
+            {
+                "bound": {
+                    "bottom": 174,
+                    "left": 107,
+                    "right": 218,
+                    "top": 143
+                },
+                "fill": false,
+                "fillColor": "#FFFFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 17,
+                "label": "ここいろの感想",
+                "labelAlign": "single-middle-center",
+                "level": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 16,
+                "shape": "rectangle",
+                "text": "\r\nまずは、都のキャラクターについて。\r\n\r\n都とのファーストコンタクトが、神社であんな露出の多いコスプレだったので、\r\n某ゆずソフトのオナ地さんみたいな痴女枠なのかと思ったら全然違った。\r\n\r\n都は、可愛くてお金持ちのお嬢様でありながら、料理が上手で節約家という庶民的な一面が魅力の一つ。\r\n属性だけで見ると完璧超人なのだが、正義感が強いため、自分のチカラについてよく悩む。\r\nただ、悩みを主人公の翔に素直に打ち明けたりと、一人で抱え込むことが少ない。\r\n学校でのAFユーザー暴走事件で。翔に助けてもらってからは特に頼ってくるなぁと感じた。\r\n都のキャラクターを語る上で、「正義感」「高潔」「」ことが一つのキーになっているように感じた。\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+            },
+            {
+                "bound": {
+                    "bottom": 90,
+                    "left": 229,
+                    "right": 353,
+                    "top": 59
+                },
+                "fill": false,
+                "fillColor": "#FFFFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 1,
+                "label": "世界の枝について",
+                "labelAlign": "single-middle-center",
+                "level": 1,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 0,
+                "shape": "rectangle",
+                "text": ""
+            },
+            {
+                "bound": {
+                    "bottom": 125,
+                    "left": 51,
+                    "right": 149,
+                    "top": 94
+                },
+                "fill": true,
+                "fillColor": "#80FFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 2,
+                "label": "ここいろの枝",
+                "labelAlign": "single-middle-center",
+                "level": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 1,
+                "shape": "rectangle",
+                "text": ""
+            },
+            {
+                "bound": {
+                    "bottom": 127,
+                    "left": 193,
+                    "right": 317,
+                    "top": 96
+                },
+                "fill": false,
+                "fillColor": "#FFFFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 7,
+                "label": "都と親しくなる？",
+                "labelAlign": "single-middle-center",
+                "level": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 1,
+                "shape": "rectangle",
+                "text": "以下の選択肢で都と親しくなる√に突入できる。\r\n\r\nフォローする。\r\n→じゃあ校門集合で。\r\n→九条を庇う。\r\n→手を振り払う\r\n\r\n"
+            },
+            {
+                "bound": {
+                    "bottom": 129,
+                    "left": 398,
+                    "right": 615,
+                    "top": 89
+                },
+                "fill": false,
+                "fillColor": "#FFFFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 8,
+                "label": "都が炎のAFユーザを間接的に\r\n殺した事実をソフィから聞かない",
+                "labelAlign": "multi-center",
+                "level": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 1,
+                "shape": "rounded-rectangle",
+                "text": "ソフィとの会話中に都から連絡があり、会話が中断されることで事実を聞かない√が発生"
+            },
+            {
+                "bound": {
+                    "bottom": 129,
+                    "left": 650,
+                    "right": 839,
+                    "top": 98
+                },
+                "fill": false,
+                "fillColor": "#FFFFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 10,
+                "label": "恋心が都にバレて恋仲になる",
+                "labelAlign": "single-middle-center",
+                "level": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 1,
+                "shape": "rounded-rectangle",
+                "text": ""
+            },
+            {
+                "bound": {
+                    "bottom": 63,
+                    "left": 397,
+                    "right": 613,
+                    "top": 23
+                },
+                "fill": false,
+                "fillColor": "#FFFFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 4,
+                "label": "都が炎のAFユーザを間接的に\r\n殺した事実をソフィから聞く",
+                "labelAlign": "multi-center",
+                "level": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 1,
+                "shape": "rounded-rectangle",
+                "text": "アーティファクトを回収するには、殺して奪うか、霊薬「アンブロシア」で仮死状態にするしかない。\r\n(アーティファクトは所有者が死ぬまで所有権が離れないらしい）\r\nソフィ曰く、「都がアーティファクトを奪ったことで、力の制御を失って、自身の炎に焼かれて魂が消し炭になった」とのこと。\r\n"
+            },
+            {
+                "bound": {
+                    "bottom": 63,
+                    "left": 650,
+                    "right": 813,
+                    "top": 32
+                },
+                "fill": false,
+                "fillColor": "#FFFFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 5,
+                "label": "秘密が都にバレて仲違い",
+                "labelAlign": "single-middle-center",
+                "level": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 1,
+                "shape": "rounded-rectangle",
+                "text": ""
+            },
+            {
+                "bound": {
+                    "bottom": 59,
+                    "left": 877,
+                    "right": 1131,
+                    "top": 28
+                },
+                "fill": false,
+                "fillColor": "#FFFFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 6,
+                "label": "都が一人で魔眼のユーザと対峙して死亡",
+                "labelAlign": "single-middle-center",
+                "level": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 1,
+                "shape": "rounded-rectangle",
+                "text": "つまりこの枝だと魔眼のユーザは死んでない(もしかしたら死んでいる可能性も微かながらある)"
+            },
+            {
+                "bound": {
+                    "bottom": 133,
+                    "left": 875,
+                    "right": 1143,
+                    "top": 93
+                },
+                "fill": false,
+                "fillColor": "#FFFFFF",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 11,
+                "label": "魔眼のユーザが何故か石化して発見され\r\n自殺したことに",
+                "labelAlign": "multi-center",
+                "level": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 1,
+                "shape": "rounded-rectangle",
+                "text": ""
+            },
+            {
+                "bound": {
+                    "bottom": 56,
+                    "left": 1202,
+                    "right": 1269,
+                    "top": 25
+                },
+                "fill": true,
+                "fillColor": "#808080",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 12,
+                "label": "都死亡√",
+                "labelAlign": "single-middle-center",
+                "level": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 1,
+                "shape": "rounded-rectangle",
+                "text": ""
+            },
+            {
+                "bound": {
+                    "bottom": 132,
+                    "left": 1202,
+                    "right": 1269,
+                    "top": 101
+                },
+                "fill": true,
+                "fillColor": "#80FF80",
+                "font": {
+                    "bold": false,
+                    "italic": false,
+                    "name": "メイリオ",
+                    "point": 10,
+                    "strikeOut": false,
+                    "underLine": false
+                },
+                "fontColor": "#000000",
+                "key": 13,
+                "label": "都生存√",
+                "labelAlign": "single-middle-center",
+                "level": 2,
+                "lineColor": "#000000",
+                "lineStyle": "solid-line",
+                "lineWidth": "thin",
+                "parent": 1,
+                "shape": "rounded-rectangle",
+                "text": "エンディングで屋上にいたフードの女…\r\nそして、都のスティグマが広がっていること…\r\n一体どうなるんだ…"
+            }
+        ]
+    }
+}
