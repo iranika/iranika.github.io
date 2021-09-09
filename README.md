@@ -47,8 +47,14 @@
     [公式の説明ページ](https://pay.rakuten.co.jp/guide/#section-send)  
     ツイッターで[いらにか(@happy_packet)](https://twitter.com/happy_packet)にDMで楽天キャッシュの送金リンクを送ってください。  
     
+1. Kyash
+    [公式ページ](https://www.kyash.co/#top-moneymoving)  
+
+    <img src="./public/donate/img/kyash.jpg" height="150" />
+
 1. PayPay  
     [公式の説明ページ](https://paypay.ne.jp/guide/send/?_ga=2.238451843.205875726.1558440708-447181547.1558440708)  
+    
     <img src="./public/donate/img/paypay.jpg" height="150" />
 
 ## おまけ：どうしてこのページは味気ないデザインなの？
