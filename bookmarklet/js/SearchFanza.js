@@ -1,0 +1,1 @@
+javascript: (function (e) { const href = "https://www.dmm.co.jp/search/=/searchstr=" + e(document.querySelector("#work_name").textContent.replace(/【[^【】]*】/g, "")); window.open(href, '_blank'); })(encodeURIComponent);

@@ -1,0 +1,43 @@
+= Bookmarklet Box
+iranika109
+
+iranikaが作ったBookmarkletを公開するおもちゃ箱です。
+
+== BrowseNowRIP
+
+[%hardbreaks]
+これは BrowseNowのブックマークレットオンリー実装です。
+Twitter公式のシェア用URLに依存しています。
+
+[source, js]
+----
+include::js/BrowseNowRIP.js[]
+----
+
+
+== For DLsite
+
+DLsiteで使えるブックマークレット集です。
+
+=== SSS: SearchSomeSite
+
+SSSはDLsiteの作品ページから直接BoothやFanzaでタイトル検索ページにタイトルを入れて検索してくれるやつです。
+
+
+NOTE: 下記のコードは新しいタブのページで開きます。現在のタブで開きたい場合は *window.open(href, '_blank')* を *window.open(href, '_self')* に書き直してください。
+
+* SearchBooth
+
+[source, js]
+----
+include::js/SearchBooth.js[]
+----
+
+* SearchFanza
+
+
+
+[source, js]
+----
+include::js/SearchBooth.js[]
+----

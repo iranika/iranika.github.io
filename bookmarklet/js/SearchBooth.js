@@ -1,0 +1,1 @@
+javascript: (function (e) { var href = "https://booth.pm/ja/search/" + document.querySelector("#work_name").textContent.replace(/【[^【】]*】/g, "") + "?adult=include"; window.open(href, '_blank'); })(encodeURIComponent);
