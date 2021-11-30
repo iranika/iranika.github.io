@@ -31,27 +31,28 @@
 ## 支援サイト
 
 主にみちくさびゅあーの維持/発展のために支援サイトを開設しました。  
-ご支援いただける人はお好きなサービスからどうぞ。
+ご支援いただける人は下記サービスからどうぞ。
 
 - [Ci-en](https://ci-en.net/creator/10765)
-- [PIXIV FANBOX](https://iranika.fanbox.cc/)
+
 
 ## 寄付について
 
 寄付/支援はいつでもウェルカムです。  
-各種送金サービスを試すための送金先として等、お気軽にどうぞ。  
-(オススメ順に記載しています）  
+お気軽にどうぞ。  
 
+1. Amazonほしい物リスト
+    [これ](https://www.amazon.jp/hz/wishlist/ls/2ZHC8L3L1O20S?ref_=wl_share)
 
-1. 楽天キャッシュ(楽天ペイ)  
-    [公式の説明ページ](https://pay.rakuten.co.jp/guide/#section-send)  
-    ツイッターで[いらにか(@happy_packet)](https://twitter.com/happy_packet)にDMで楽天キャッシュの送金リンクを送ってください。  
-    
 1. Kyash
     [公式ページ](https://www.kyash.co/#top-moneymoving)  
 
     <img src="./public/donate/img/kyash.jpg" height="150" />
 
+1. 楽天キャッシュ(楽天ペイ)  
+    [公式の説明ページ](https://pay.rakuten.co.jp/guide/#section-send)  
+    ツイッターで[いらにか(@happy_packet)](https://twitter.com/happy_packet)にDMで楽天キャッシュの送金リンクを送ってください。  
+    
 1. PayPay  
     [公式の説明ページ](https://paypay.ne.jp/guide/send/?_ga=2.238451843.205875726.1558440708-447181547.1558440708)  
     
@@ -63,5 +64,5 @@
 ほとんどテキストで書かれ、画像がチョットだけある。  
 まさしく「文書」だった頃のホームページは今では絶滅危惧種になってしまいました。  
 とは言え、現代のWebデザインは人類が試行錯誤を経て手に入れた優秀な道具です。
-見やすく洗練されたデザインのWebページに出会ったら、先人たちの歴史に思いを馳せてみてください。  
+見やすく洗練されたデザインのWebページに出会ったら、先人たちに思いを馳せてみてください。  
 
