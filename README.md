@@ -9,7 +9,7 @@
 
 - Twitter: [いらにか(@happy_packet)](https://twitter.com/happy_packet)  
 - Github: [iranika](https://github.com/iranika)
-
+- 問合わせ: [フォーム](https://forms.gle/dFWuLEjBrxNUj4bK8)
 
 ## 公開しているアプリ
 
