@@ -5,6 +5,7 @@
 名前：いらにか（iranika）  
 ※Twitterのアイコンは頻繁に変わります。
 
+
 ## Contact as
 
 - Twitter: [いらにか(@happy_packet)](https://twitter.com/happy_packet)  
@@ -23,11 +24,28 @@
 
 - [初代みちくさびゅあー](https://iranika.github.io/mo-code/) スマホ向けの道草屋ばっくやーど漫画ビュアー。閲覧は可能。
 
-
 ## コントリビュート
 
 - [dom96/choosenim](https://github.com/dom96/choosenim) Nimのバージョンスイッチツール。僅かながら貢献。
 
+
+## スキル
+
+基本、何でも屋。  
+主にインフラ(サーバ+NW)とアプリ(Web)を行ったり来たり。  
+マーケティング戦略や市場分析とかしつつ、プロトタイピングもしたり。  
+使い慣れてるのはPowerShell。好きな本は「UNIXという考え方」。
+
+### 扱ったことあるやつ(最低1年以上)
+
+```
+const LastUpdate = "2022-04-22"
+const Language = [PowerShell, Javascript/Typescript, Rust, Python, Nim, PHP, HTML/CSS]
+const WebFramework = [Vue]
+const OS = [Ubuntu, CentOS, WindowsServer, Windows]
+const CloudService = [GCP, AWS, ConoHa, Cloudflare, Firebase, NewRelic]
+const DevelopApps = [ShellScript, SPA, WebExtension, Electron(desktop, mobile)]
+```
 
 ## 支援サイト
 
