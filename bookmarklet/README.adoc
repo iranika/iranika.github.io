@@ -1,7 +1,7 @@
 = Bookmarklet Box
 iranika109
 
-iranikaが作ったBookmarkletを公開するおもちゃ箱です。
+iranikaが作ったブックマークレット（Bookmarklet）を公開するおもちゃ箱です。
 
 == BrowseNowRIP
 
@@ -12,6 +12,17 @@ Twitter公式のシェア用URLに依存しています。
 [source, js]
 ----
 include::js/BrowseNowRIP.js[]
+----
+
+
+== BrowseNowRIP for Misskey.io
+
+[%hardbreaks]
+Misskey.io以外のドメインで使いたい場合はソースコードの`https://misskey.io/share`の部分を`https://{使いたいドメイン}/share`に置き換えてください。
+
+[source, js]
+----
+include::js/BrowseNow4Misskey.js
 ----
 
 
