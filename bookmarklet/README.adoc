@@ -18,11 +18,11 @@ include::js/BrowseNowRIP.js[]
 == BrowseNowRIP for Misskey.io
 
 [%hardbreaks]
-Misskey.io以外のドメインで使いたい場合はソースコードの`https://misskey.io/share`の部分を`https://{使いたいドメイン}/share`に置き換えてください。
+Misskey.io以外のドメインで使いたい場合はソースコードの`https://misskey.io/share` の部分を`https://{使いたいドメイン}/share` に置き換えてください。
 
 [source, js]
 ----
-include::js/BrowseNow4Misskey.js
+include::js/BrowseNow4Misskey.js[]
 ----
 
 
