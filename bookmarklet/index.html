@@ -448,7 +448,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
-<p>iranikaが作ったブックマークレット（Bookmarklet）を公開するおもちゃ箱です。</p>
+<p>iranikaが作ったブックマークレット（Bookmarklet）を公開するおもちゃ箱のページです。</p>
 </div>
 </div>
 </div>
@@ -457,6 +457,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sectionbody">
 <div class="paragraph">
 <p>これは BrowseNowのブックマークレットオンリー実装です。<br>
+今見ているページのタイトルとURLを含めてTwitterにシェアできます。<br>
 Twitter公式のシェア用URLに依存しています。</p>
 </div>
 <div class="listingblock">
@@ -484,6 +485,18 @@ Twitter公式のシェア用URLに依存しています。</p>
 <div class="sectionbody">
 <div class="paragraph">
 <p>DLsiteで使えるブックマークレット集です。</p>
+</div>
+<div class="sect2">
+<h3 id="_opengift">OpenGift</h3>
+<div class="paragraph">
+<p>DLsiteの作品ページからギフトページを開くやつです。
+ギフトページは購入済みのものしか開けませんので注意してください。</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code class="language-js" data-lang="js">javascript:(function(e){window.open("https://www.dlsite.com/home/mypage/buy/dlgift/product/=/product_id/"+e(location.href.replace(/.*\//, "").replace(/\.html.*$/, ""))+"/",null,"width=520,height=500");})(encodeURIComponent);</code></pre>
+</div>
+</div>
 </div>
 <div class="sect2">
 <h3 id="_sss_searchsomesite">SSS: SearchSomeSite</h3>
@@ -532,7 +545,7 @@ Twitter公式のシェア用URLに依存しています。</p>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2023-07-22 07:32:55 +0900
+Last updated 2023-09-03 13:51:01 +0900
 </div>
 </div>
 </body>
