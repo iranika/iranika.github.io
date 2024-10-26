@@ -21,6 +21,7 @@
 - [MimiCa](https://mimica.iranika.info/)  実験場。思いついたアプリのプロトタイプ公開場所。
 
 雑なおもちゃ箱→[ブックマークレット ボックス](https://iranika.github.io/bookmarklet/)
+（ブックマークレット、実はモバイルブラウザでも動くんです）
 
 ## サポート終了したアプリ
 
