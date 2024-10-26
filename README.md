@@ -20,7 +20,7 @@
 - [collie](https://github.com/iranika/collie)  Webブラウザテストを対話形式で記述&検証するためのツール。Scoop manifest付属。
 - [MimiCa](https://mimica.iranika.info/)  実験場。思いついたアプリのプロトタイプ公開場所。
 
-雑なおもちゃ箱→[ブックマークレット ボックス](https://github.com/iranika/iranika.github.io/tree/main/bookmarklet#bookmarklet-box)
+雑なおもちゃ箱→[ブックマークレット ボックス](https://iranika.github.io/bookmarklet/)
 
 ## サポート終了したアプリ
 
