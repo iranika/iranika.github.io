@@ -1,0 +1,1 @@
+javascript: (function (e) { var href = `https://bsky.app/intent/compose?text="${e(document.title)}(${e(location.href)}) %23BrowseNowRIP"`; window.open(href, null, 'width=520,height=500'); })(encodeURIComponent);
