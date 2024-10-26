@@ -15,6 +15,17 @@ Twitter公式のシェア用URLに依存しています。
 include::js/BrowseNowRIP.js[]
 ----
 
+== BrowseNowRIP for Bluesky
+
+[%hardbreaks]
+BrowseNowRIPのBluesky版の実装です。
+
+[source, js]
+----
+include::js/BrowseNowRIP4Bluesky.js[]
+----
+
+
 
 == BrowseNowRIP for Misskey.io
 
