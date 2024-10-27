@@ -19,12 +19,12 @@ include::js/BrowseNowRIP.js[]
 
 [%hardbreaks]
 BrowseNowRIPのBluesky版の実装です。
+ハッシュタグがうまく動作しないことがあります。
 
 [source, js]
 ----
 include::js/BrowseNowRIP4Bluesky.js[]
 ----
-
 
 
 == BrowseNowRIP for Misskey.io
